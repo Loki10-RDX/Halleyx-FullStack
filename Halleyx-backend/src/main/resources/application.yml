@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: workflow-engine
+
+  profiles:
+    default: dev
